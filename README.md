@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Ernani Padilha!
 
-- 🔭 Hoje trabalho como DevOps
-- 🌱 Estudando Web Developer
+- 🌱 Dev Pleno
 
 <div align="center">
   <a href="https://github.com/ernanipadilha">
